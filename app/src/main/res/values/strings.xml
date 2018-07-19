@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+     <string-array name="array" >
+        <item>Select Country</item>
+        <item>India</item>
+        <item>South Africa</item>
+        <item>Ireland</item>
+        <item>Indonesia</item>
+        <item>UAE</item>
+        <item>USA</item>
+        <item>France</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>New zealand</item>
+        <item>France</item>
+        <item>Russia</item>
+    </string-array>
+    <string name="text2">"Select Gender"</string>
+    <string name="Gender">Male
+    </string>
+    <string name="Gender1">Female
+    </string>
+</resources>
